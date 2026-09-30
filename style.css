@@ -24,7 +24,7 @@ border: 4px  solid  rgb(189, 249, 252)
             display: flex;
             flex-direction: line;
             align-items: center;
-            text-align: left;
+            text-align: center;
             justify-content: center;
             border: 3px solid red;
             margin: 16px;
