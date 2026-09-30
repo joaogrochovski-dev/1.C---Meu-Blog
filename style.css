@@ -40,4 +40,6 @@ border: 4px  solid  rgb(189, 249, 252)
         g1{
             font-size: larger;
             font: caption;
+            font-weight: bolder;
+            margin-left: 100%;
         }
