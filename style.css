@@ -3,9 +3,25 @@
 --corzinha2: rgb(161, 44, 44);
 --corzinha3: whitesmoke;
 --corzinha4: red;
---corzinha5: rgb(189,249,252)
+--corzinha5: rgb(189,249,252);
 
 }
+
+.tema-escuro {
+    --corzinha:rgb(10, 17, 90);
+--corzinha2: rgb(152, 75, 234);
+--corzinha3: rgb(0, 0, 0);
+--corzinha4: blue;
+--corzinha5: rgb(234, 24, 24);
+}
+
+.tema-escuro a{
+    color: aliceblue;
+}
+.tema-escuro p{
+color: var(--corzinha3);
+}
+
 body{
         max-width: 100vw;
     }
@@ -15,7 +31,7 @@ body{
 text-align: center;
 margin: 0 auto;
 padding: 4px;
-border: 4px  solid  rgb(189, 249, 252)
+border: 4px  solid  rgb(189, 249, 252);
         }
         main{
           
@@ -49,7 +65,7 @@ border: 4px  solid  rgb(189, 249, 252)
           height: 190px;
           width: 190px;
           align-content: center;
-          background-color: var(--corzinha3)
+          background-color: var(--corzinha3);
         }
         p1{ font-weight: bold;
 
