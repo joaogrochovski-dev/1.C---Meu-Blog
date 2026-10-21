@@ -32,3 +32,10 @@
       Pagina.classList.add("tema-escuro");
     }
   }
+
+conts btnTopo = document querySelector(".btnTopo");
+btnTopo.addEventListener('click',voltaAoTopo)
+function voltaAoTopo(){
+
+scrollTo(0, 0);
+}

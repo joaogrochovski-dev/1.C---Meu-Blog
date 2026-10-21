@@ -91,5 +91,14 @@ border: 4px  solid  rgb(189, 249, 252);
             background-color: var(--corzinha);
             border-radius: 50%;
         }
+        .btn-topo{
+            position: fixed;
+            bottom: 10px;
+            left: 16px;
+            font-size: 30px;
+            padding: 12px;
+            background-color: var(--corzinha);
+            border-radius: 30%;
+        }
         
     
